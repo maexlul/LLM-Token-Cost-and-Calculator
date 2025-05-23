@@ -10,3 +10,7 @@ A lightweight Streamlit app to estimate and compare daily and monthly token‐ba
 - **Side-by-side cost comparison** for any Gemini vs. OpenAI model tier  
 - **“Show base model rates”** toggle to reveal \$ per 1 M-token pricing  
 - **Monthly projection** assuming 22 working days
+
+To use: 
+pip install -r readme.txt
+streamlit run costing.py
